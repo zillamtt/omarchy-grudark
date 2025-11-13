@@ -1,2 +1,9 @@
 # omarchy-grudark
-omarchy-grudark is a theme for Omarchy. Made with Aether.
+Grudark is a theme for Omarchy. It's made with the app Aether.
+Grudark means Gruvbox Dark but shortened.
+It's a complete minimalist setup.
+Credits to Aether.
+![](https://github.com/zillamtt/omarchy-grudark/blob/main/theme.png?raw=true)
+![](https://github.com/zillamtt/omarchy-grudark/blob/main/theme2.png?raw=true)
+![](https://github.com/zillamtt/omarchy-grudark/blob/main/theme3.png?raw=true)
+Installation: 
