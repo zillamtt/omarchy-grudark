@@ -7,3 +7,4 @@ Credits to Aether.
 ![](https://github.com/zillamtt/omarchy-grudark/blob/main/theme2.png?raw=true)
 ![](https://github.com/zillamtt/omarchy-grudark/blob/main/theme3.png?raw=true)
 Installation: 
+'omarchy-theme-install https://github.com/zillamtt/omarchy-grudark.git'
