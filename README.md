@@ -12,5 +12,7 @@ Credits to Aether.
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
+omarchy-theme-install https://github.com/zillamtt/omarchy-grudark
 ```
+
+
