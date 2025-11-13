@@ -1,0 +1,29 @@
+@define-color selected-text #88c2ce;
+@define-color text #fdfdfb;
+@define-color base #1D201E;
+@define-color border #4f5451;
+@define-color foreground #fdfdfb;
+@define-color background #1D201E;
+
+window .normal-icons,
+window .large-icons {
+    -gtk-icon-size: 0;
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+}
+
+/* * Apply the fix here:
+ * Set min-width and padding to 0 for the icon space (like the others),
+ * but then add a specific padding-left to create the desired space before the text.
+ */
+window .item-box {
+    -gtk-icon-size: 0;
+    min-width: 0;
+    padding-top: 0;    /* Keep the top/bottom padding at 0 if that's what you want */
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-left: 10px; /* <--- This is the key fix to prevent going all the way left */
+    margin: 0;
+}
+
